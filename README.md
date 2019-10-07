@@ -1,8 +1,8 @@
-# Padestrian-Detection
-### Padestrian Detection using HOG vector and Svm.
+# Pedestrian-Detection
+### Pedestrian Detection using HOG vector and Svm.
 
 This is the conversion of the matlab version in the Python. Please update if you find any issue or error.
-
+HOG(Histogram of Oriented Gradients) is used for feature extraction and SVM(Support Vector Machine) is an algorithm used for classification.
 
 # Modules Requirements
 
